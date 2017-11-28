@@ -7,7 +7,7 @@ Git ipld format
 [![Coverage Status](https://codecov.io/gh/ipfs/go-ipld-git/branch/master/graph/badge.svg)](https://codecov.io/gh/ipfs/go-ipld-git/branch/master)
 [![Travis CI](https://travis-ci.org/ipfs/go-ipld-git.svg?branch=master)](https://travis-ci.org/ipfs/go-ipld-git)
 
-> An ipld codec for git objects allowing path traversals across the git graph!
+> An ipld codec for Git objects allowing path traversals across the Git graph
 
 Note: This is WIP and may not be an entirely correct parser.
 
